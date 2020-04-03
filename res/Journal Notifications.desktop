@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=Application
+Name[en_US]=Journal Notifications
+Name=Journal Notifications
+Exec=journal-notifications sshd sudo
+NoDisplay=false
+Hidden=false
+# Icon=
+Comment[en_US]=Creates notifications for select journalctl events
+Comment=Creates notifications for select journalctl events 
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=0
+
+
