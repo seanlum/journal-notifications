@@ -23,8 +23,8 @@ $ make clean
 
 **Usage:**
 ```
-$ journal-notify [<field_name> [, <field_name>...]]
-$ journal-notify sshd sudo audit
+$ journal-notifications [<field_name> [, <field_name>...]]
+$ journal-notifications sshd sudo audit
 ```
 
 
